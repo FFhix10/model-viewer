@@ -1,0 +1,139 @@
+commit 1d05b87a903a67aa370d9f729014b06ff8ca5efe
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Fri Nov 20 08:47:54 2020 -1000
+
+    UX Refurbishing (#1704)
+    
+    * updates
+    
+    * update material fix
+    
+    * general ui updates
+    
+    * hide content under sticky header
+    
+    * last UI additions
+    
+    * clean up css
+    
+    * update test
+    
+    * move some component css into singular file
+    
+    * add license to top of page
+    
+    * make home buttons images, remove redundant test
+    
+    * update css and type files
+    
+    * address feedback
+    
+    * remove comment
+    
+    * UI Feedback (#1695)
+    
+    * expandable content carrots vertically aligned
+    
+    * update file modal
+    
+    * update icons, and css of empty sections
+    
+    * update icons and base color
+    
+    * update test
+    
+    * added brackets
+    
+    * UI Update (#1696)
+    
+    * expandable content carrots vertically aligned
+    
+    * update file modal
+    
+    * update icons, and css of empty sections
+    
+    * update icons and base color
+    
+    * update test
+    
+    * added brackets
+    
+    * file modal only displays local dir
+    
+    * git fix
+    
+    * change default black
+    
+    * git stuff
+    
+    * initial modal
+    
+    * git
+    
+    * add snippet to modal
+    
+    * icons and names of modal
+    
+    * global colors first pass
+    
+    * setting dark theme colors
+    
+    * style file modal, fix hotspots
+    
+    * add min and max zoom, sans bugs
+    
+    * remove fov file and test
+    
+    * remove max zoom
+    
+    * added light dark mode flip
+    
+    * remove 3dom from package-lock
+    
+    * updated poster and camera ux to trigger toasts
+    
+    * remove toast for camera, add error colors
+    
+    * code updates
+    
+    * remove radio button because of build error, replace with dropdown
+    
+    * addressing feedback
+    
+    * placing snippet at top
+    
+    * reverting
+    
+    * reverting animation controls
+    
+    * change logic for camera settings labels
+    
+    * update tests, move styles files
+    
+    * clean up snippet modal
+    
+    * added in priv link
+    
+    * revert card
+    
+    * removed unused globals
+    
+    * updated html
+    
+    * fixed sliders, added glbs, sticky material, load button and edit snippet
+    
+    * have edit snippet mirror export snippet
+    
+    * replace cloud icon with import
+    
+    * fixing minor details
+    
+    * draggable input neat sizes
+    
+    * bold tab header
+    
+    * updating environment images layout
+    
+    * remove silly looking hdr
+    
+    * added hdrs to shared envs, use in editor
