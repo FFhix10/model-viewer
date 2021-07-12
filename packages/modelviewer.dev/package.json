@@ -31,7 +31,7 @@
     "focus-visible": "^5.0.1",
     "intersection-observer": "^0.11.0",
     "lit-element": "^2.4.0",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.24.0",
     "resize-observer-polyfill": "^1.5.0",
     "simple-dropzone": "^0.7.0",
     "js-beautify": "^1.11.0",
